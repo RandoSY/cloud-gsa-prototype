@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="assets/logo.png" width="420" alt="Cloud GSA Prototype logo"/>
+</p>
+
+<h1 align="center">Cloud GSA Prototype (v0.2)</h1>
+
+<p align="center">
+<strong>One way of knowing, expressed through three domains, unified by one shared cloud/session/telemetry architecture.</strong>
+</p>
+
 # Cloud GSA Prototype (v0.2)
 
 A minimal session-and-telemetry runtime for the **1:3:1(+M)** framework:
